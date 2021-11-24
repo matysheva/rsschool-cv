@@ -1,6 +1,6 @@
 # Marina Matysheva
 
-## Contacts:
+## Contacts
 
 - **Phone:** +375 29 718 26 48
 - **E-mail:** [marina.matysheva@gmail.com]
@@ -33,14 +33,14 @@ function sumTriangularNumbers(n) {
 
 ## Education
 
-[**Polotsk State University**](https://www.psu.by/en/)
-_Information Technology Faculty_
+[**Polotsk State University**](https://www.psu.by/en/)\
+_Information Technology Faculty_\
 _Specialization: Computing systems and Networks_
 
 ## Experience
 
-2006 – 2021
-1C Enterprise 8.2
+2006 – 2021\
+1C Enterprise 8.2\
 Development software for automating business processes and accounting
 
 ## Languages
