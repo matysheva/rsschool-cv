@@ -10,7 +10,7 @@
 
 I love programming and have always been interested in psychology. Developing technical skills and communicating successfully with people are equally important to me. My experience in OOP with the automating business processes of an enterprise and accounting gives me a good basis for learning Front-End technology. And my desire to develop helps to find my own path.
 
-> Если ты рожден без крыльев, не мешай им расти
+> _If you are born without wings, do not stop them from growing_
 
 ## Skills
 
@@ -21,29 +21,26 @@ I love programming and have always been interested in psychology. Developing tec
 
 ## Code examples
 
-```function cur(n){
-return (n==1) ? 1 : n + cur(n-1);
+```javascript
+function cur(n) {
+  return n == 1 ? 1 : n + cur(n - 1);
 }
 
 function sumTriangularNumbers(n) {
-return (n<=0) ? 0 : cur(n) + sumTriangularNumbers(n-1);
+  return n <= 0 ? 0 : cur(n) + sumTriangularNumbers(n - 1);
 }
 ```
 
 ## Education
 
-**[Polotsk State University]**(https://www.psu.by/en/)
-
+[**Polotsk State University**](https://www.psu.by/en/)
 _Information Technology Faculty_
-
 _Specialization: Computing systems and Networks_
 
 ## Experience
 
 2006 – 2021
-
 1C Enterprise 8.2
-
 Development software for automating business processes and accounting
 
 ## Languages
