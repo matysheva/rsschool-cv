@@ -1,14 +1,16 @@
 # Marina Matysheva
 
-## My Contact Info:
+## Contacts:
 
 - **Phone:** +375 29 718 26 48
-- **E-mail:** marina.matysheva@gmail.com
-- **GitHub:** matysheva
+- **E-mail:** [marina.matysheva@gmail.com]
+- **GitHub:** [matysheva]
 
 ## About myself
 
 I love programming and have always been interested in psychology. Developing technical skills and communicating successfully with people are equally important to me. My experience in OOP with the automating business processes of an enterprise and accounting gives me a good basis for learning Front-End technology. And my desire to develop helps to find my own path.
+
+> Если ты рожден без крыльев, не мешай им расти
 
 ## Skills
 
@@ -30,20 +32,21 @@ return (n<=0) ? 0 : cur(n) + sumTriangularNumbers(n-1);
 
 ## Education
 
-[Polotsk State University](https://www.psu.by/en/)
-Information Technology Faculty
-Specialization: Computing systems and Networks
+**[Polotsk State University]**(https://www.psu.by/en/)
+
+_Information Technology Faculty_
+
+_Specialization: Computing systems and Networks_
 
 ## Experience
 
-2006–2021 1C Enterprise 8.2
+2006 – 2021
+
+1C Enterprise 8.2
+
 Development software for automating business processes and accounting
 
 ## Languages
 
-- Russian Native
+- Russian - Native
 - English - A2 ([B1 in process](https://skyeng.ru/))
-
-```
-
-```
